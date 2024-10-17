@@ -3,6 +3,7 @@ title: DayOne
 layout: default
 filename: DayOne.md
 --- 
+   
 ## **Day 1: What is Git?**
 
 -   **Concept:** Explain version control and why it’s useful.
