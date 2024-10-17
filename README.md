@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
 # Course Outline: Git, Flask, and Django
 ### by RED_KWIK_KWIK
