@@ -1,6 +1,6 @@
 ---
-title: DayOne Page
-layout: cayman
+title: DayOne
+layout: default
 filename: DayOne.md
 --- 
 ## **Day 1: What is Git?**
