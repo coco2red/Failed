@@ -1,6 +1,6 @@
 
 # Course Outline: Git, Flask, and Django
-
+### by RED_KWIK_KWIK
 ## Week 1: Introduction to Git
 
 ### [Day 1: What is Git?](#detailed-day-1-what-is-git)
