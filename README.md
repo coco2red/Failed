@@ -1,18 +1,14 @@
----
-layout: default
-title: Course Outline: Git, Flask, and Django
----
 
 # Course Outline: Git, Flask, and Django
 
 ## Week 1: Introduction to Git
 
-### [Day 1: What is Git?](#day-1-what-is-git)
+### [Day 1: What is Git?](#detailed-day-1-what-is-git)
 - **Concept:** Explain version control and why it’s useful.
 - **Activity:** Set up a GitHub account and create a new repository.
 - **Practice:** Create a simple text file and use `git init`, `git add`, and `git commit`.
 
-### Day 2: Branching and Merging
+### [Day 2: Branching and Merging](#detailed-day-2-branching-and-merging)
 - **Concept:** Introduce branches and merging.
 - **Activity:** Create a branch for a new feature (e.g., a README file).
 - **Practice:** Make changes, commit them, and merge back into the main branch.
@@ -26,17 +22,17 @@ title: Course Outline: Git, Flask, and Django
 
 ## Week 2: Introduction to Flask
 
-### [Day 1: What is Flask?](#day-1-what-is-flask)
+### [Day 4: What is Flask?](#day-1-what-is-flask)
 - **Concept:** Introduce Flask as a micro web framework.
 - **Setup:** Install Flask and set up a simple project.
 - **Activity:** Create a “Hello, World!” web page.
 
-### Day 2: Routing and Templates
+### Day 5: Routing and Templates
 - **Concept:** Explain routing and using templates with Jinja2.
 - **Activity:** Create multiple routes (e.g., home, about).
 - **Practice:** Use templates to render HTML dynamically.
 
-### Day 3: Building a Simple Flask App
+### Day 6: Building a Simple Flask App
 - **Project:** Start building a simple Flask app (e.g., a personal blog).
 - **Activity:** Create a basic layout with navigation links.
 
@@ -44,17 +40,17 @@ title: Course Outline: Git, Flask, and Django
 
 ## Week 3: Introduction to Django
 
-### [Day 1: What is Django?](#day-1-what-is-django)
+### [Day 7: What is Django?](#day-1-what-is-django)
 - **Concept:** Explain Django and its advantages.
 - **Setup:** Install Django and create a new project.
 - **Activity:** Create a simple “Welcome” page using Django views.
 
-### Day 2: Models and Databases
+### Day 8: Models and Databases
 - **Concept:** Introduce models and how Django handles databases.
 - **Activity:** Create a model for a toy collection (name, type).
 - **Practice:** Run migrations to create the database.
 
-### Day 3: Building a Simple Django App
+### Day 9: Building a Simple Django App
 - **Project:** Build a Django app to manage the toy collection.
 - **Activity:** Create views to display and add toys.
 
@@ -62,16 +58,16 @@ title: Course Outline: Git, Flask, and Django
 
 ## Week 4: Combining Skills
 
-### [Day 1: Using Git with Flask/Django](#day-1-using-git-with-flask-django)
+### [Day 10: Using Git with Flask/Django](#day-1-using-git-with-flask-django)
 - **Concept:** Explain how to use Git for Flask/Django projects.
 - **Activity:** Integrate Git into your Flask/Django project.
 - **Practice:** Make commits for each new feature or change.
 
-### Day 2: Final Project Planning
+### Day 11: Final Project Planning
 - **Project:** Plan a final project combining Flask/Django and Git (e.g., a toy store website).
 - **Activity:** Outline features and design the layout.
 
-### Day 3: Building and Presenting Final Project
+### Day 12: Building and Presenting Final Project
 - **Activity:** Work on the final project, focusing on integrating what you learned.
 - **Output:** Prepare a presentation to showcase the project to friends or family.
 
@@ -84,6 +80,8 @@ title: Course Outline: Git, Flask, and Django
 
 ---
 
+
+   
 ## Detailed Day 1: What is Git?
 
 ### Concept: Explain version control and why it’s useful.
@@ -154,3 +152,5 @@ title: Course Outline: Git, Flask, and Django
   ```bash
   git remote add origin <repository-url>
   git push -u origin main
+
+## Detailed Day 2: Branching and Merging
