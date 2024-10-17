@@ -2,7 +2,7 @@
 
 ### Week 1: Introduction to Git
 
-**Day 1: What is Git?[GitHub](https://github.com/)**
+**[Day 1: What is Git?](https://coco2red.github.io/DayOne.md)**
 
 -   **Concept:** Explain version control and why it’s useful.
 -   **Activity:** Set up a GitHub account and create a new repository.
