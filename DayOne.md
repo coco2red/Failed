@@ -1,7 +1,4 @@
----
-layout: default
-title: Day 1: What is Git?
----
+
 ## **Day 1: What is Git?**
 
 -   **Concept:** Explain version control and why it’s useful.
