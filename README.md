@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # coco2red Python Shinobi
 
 ### Week 1: Introduction to Git
