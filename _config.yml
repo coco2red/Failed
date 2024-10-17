@@ -1,3 +1,9 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+navigation:
+  - title: Home
+    url: /
+  - title: Day 1: What is Git
+    url: /DayOne.md
