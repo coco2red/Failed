@@ -4,3 +4,7 @@ plugins:
 
 title: My Shinobi Coco2Red Syllabus
 
+markdown: kramdown
+kramdown:
+   auto_ids: true
+
