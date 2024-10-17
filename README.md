@@ -1,9 +1,7 @@
----
-layout: default
-title: Home
----
+# coco2red.github.io
+# coco2red Python Shinobi
 
-# Course Outline: Git, Flask, and Django
+## Course Outline: Git, Flask, and Django
 ### by RED_KWIK_KWIK
 ## Week 1: Introduction to Git
 
