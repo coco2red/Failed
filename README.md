@@ -32,7 +32,7 @@
 - **Activity:** Create multiple routes (e.g., home, about).
 - **Practice:** Use templates to render HTML dynamically.
 
-### [Day 6: Building a Simple Flask App](#detailed-day-5-building-a-simple-flask-app)
+### [Day 6: Building a Simple Flask App](#detailed-day-6-building-a-simple-flask-app)
 - **Project:** Start building a simple Flask app (e.g., a personal blog).
 - **Activity:** Create a basic layout with navigation links.
 
@@ -50,7 +50,7 @@
 - **Activity:** Create a model for a toy collection (name, type).
 - **Practice:** Run migrations to create the database.
 
-### [Day 9: Building a Simple Django App](#detailed-day-9-models-and-databases)
+### [Day 9: Building a Simple Django App](#detailed-day-9-building-a-simple-django-app)
 - **Project:** Build a Django app to manage the toy collection.
 - **Activity:** Create views to display and add toys.
 
@@ -58,16 +58,16 @@
 
 ## Week 4: Combining Skills
 
-### [Day 10: Using Git with Flask/Django](#day-10-using-git-with-flask-django)
+### [Day 10: Using Git with Flask/Django](#detailed-day-10-using-git-with-flask-django)
 - **Concept:** Explain how to use Git for Flask/Django projects.
 - **Activity:** Integrate Git into your Flask/Django project.
 - **Practice:** Make commits for each new feature or change.
 
-### [Day 11: Final Project Planning](#day-11-final-project-planning)
+### [Day 11: Final Project Planning](#detailed-day-11-final-project-planning)
 - **Project:** Plan a final project combining Flask/Django and Git (e.g., a toy store website).
 - **Activity:** Outline features and design the layout.
 
-### [Day 12: Building and Presenting Final Project](#day-12-building-and-presenting-final-project)
+### [Day 12: Building and Presenting Final Project](#detailed-day-12-building-and-presenting-final-project)
 - **Activity:** Work on the final project, focusing on integrating what you learned.
 - **Output:** Prepare a presentation to showcase the project to friends or family.
 
