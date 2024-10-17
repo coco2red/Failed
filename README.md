@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 # coco2red Python Shinobi
 
