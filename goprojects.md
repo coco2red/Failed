@@ -7,3 +7,7 @@ https://gowebexamples.com/
 https://gobyexample.com/
 
 https://freedium.cfd/https://medium.com/@G_Kumar/golang-project-ideas-edf71092ba65
+
+
+https://github.com/dariubs/GoBooks
+
