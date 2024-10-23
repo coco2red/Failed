@@ -174,4 +174,5 @@
 - Suggest they explore adding more fields to the toy model (like `color` or `age`) and updating the views accordingly.
 - Encourage them to style the pages using CSS to make the app look even better!
 
+[Back to Python Shinobi](https://coco2red.github.io/)
 ---
